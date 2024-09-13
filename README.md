@@ -6,6 +6,6 @@
 
 - Apart from developing software, I'm interested in all things Linux, from shell scripting to system administration and distro-hopping.
 
-- I was also the **Section Editor** and **Senior Writer** for the Linux and Programming categories at [MakeUseOf](https://makeuseof.com/author/deepesh-sharma) and How-To Geek](https://howtogeek.com/author/deepeshsharma) respectively, two well-known technology publications.
+- I was also the **Section Editor** and **Senior Writer** for the Linux and Programming categories at [MakeUseOf](https://makeuseof.com/author/deepesh-sharma) and [How-To Geek](https://howtogeek.com/author/deepeshsharma) respectively, two well-known technology publications.
 
 - Finally, I am also a self-taught digital marketer, proficient in on-page optimization, keyword and niche research, website architecture design, and everything revolving around SEO. Founded several websites that have served millions of readers online to date.
